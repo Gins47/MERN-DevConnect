@@ -1,4 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://gins:PXonyDNjEQL9WoTb@cluster0.zcvy8.mongodb.net/devconnect?retryWrites=true&w=majority",
-    "JWTSecret":"My JWT secret "
-}
